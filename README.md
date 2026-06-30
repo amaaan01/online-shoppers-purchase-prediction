@@ -95,10 +95,10 @@ The model was evaluated using:
 ```text
 online-shoppers-purchase-prediction/
 │
-├── README.md
-├── requirements.txt
 ├── .gitignore
+├── README.md
 ├── online_shoppers_purchase_prediction.ipynb
+├── requirements.txt
 └── shop_smart_ecommerce.csv
 ```
 
