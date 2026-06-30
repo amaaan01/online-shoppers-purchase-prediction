@@ -98,7 +98,8 @@ online-shoppers-purchase-prediction/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
-└── online_shoppers_purchase_prediction.ipynb
+├── online_shoppers_purchase_prediction.ipynb
+└── shop_smart_ecommerce.csv
 ```
 
 ## Installation
