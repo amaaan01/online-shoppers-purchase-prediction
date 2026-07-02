@@ -122,14 +122,14 @@ Launch Jupyter Notebook:
 jupyter lab
 ```
 
-## Results
+### Results
 
 | Metric | Score |
 |----------|----------|
-| Accuracy | XX.XX |
-| Precision | XX.XX |
-| Recall | XX.XX |
-| F1 Score | XX.XX |
+| Accuracy | 0.85 |
+| Precision | 0.50 |
+| Recall | 0.83 |
+| F1 Score | 0.63 |
 
 > Replace the values above with your actual model results.
 
